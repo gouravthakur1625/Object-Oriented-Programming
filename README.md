@@ -1,2 +1,2 @@
-# Dogs-Class-Basic-
-In this repository there is a class of dog in which we are giving some commands to dog and getting output. 
+# Object-Oriented-Programming
+In this repository I will upload oop's concepts serialwise.
